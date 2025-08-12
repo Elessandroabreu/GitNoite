@@ -26,9 +26,10 @@ footer {
 }
 
 main {
-  display: flex;
+  display: inline-block;
   
 }
+
 
 header {
   display: flex;
