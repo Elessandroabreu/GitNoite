@@ -37,9 +37,11 @@ header {
   flex-direction: column;
 }
 
-header img{
+ header img{
     height: 80px;
     width: 80px;
     margin-top: 0px;
     gap: 10px;
  }
+
+ 
